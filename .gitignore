@@ -1,0 +1,5 @@
+#忽略index.js文件
+index.js
+
+#忽略text文件夹
+text/
